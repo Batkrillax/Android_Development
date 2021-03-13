@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FIS Калькулятор</string>
+    <string name="imageView_description">Формула</string>
+    <string name="editText0_hint">0</string>
+    <string name="textViewY_hint">Y =</string>
+    <string name="textView_Answer_text">Ответ: </string>
+    <string name="textView_text">Вариант - 1</string>
+    <string name="button_solve_text">Решить</string>
+    <string name="button_clear_text">Сбросить</string>
+    <string name="TextViewA">A=</string>
+    <string name="TextViewB">B=</string>
+    <string name="TextViewX">X=</string>
+</resources>

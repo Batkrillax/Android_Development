@@ -1,0 +1,3 @@
+include ':questionnaire'
+include ':calculator'
+rootProject.name = "FIS_AndroidDev"
